@@ -17,6 +17,10 @@ file = ".import-log/run.log"
 hash = "a6bdab894a9761b2f0ead4d855cfe3f26d1c7c5a9b6b4e1c72dd8ad83b91005b"
 
 [[files]]
+file = ".nojekyll"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "Forever_Pack_classificacao_corrigida.pdf"
 hash = "e58169f5a1e2454a01e7201f63e9bcc5d4056b0eb14036545a88dc90c34c0cc3"
 
@@ -47,7 +51,7 @@ metafile = true
 
 [[files]]
 file = "mods/antique-atlas-4.pw.toml"
-hash = "72f9cf7ef1412b9384467782dd5444ec8adbd03b9f532d1238e5a166ffb25237"
+hash = "79413863dc0409ce63f2cd0b25485b05c131707caa21f8e269325f5f6ad741cd"
 metafile = true
 
 [[files]]
@@ -468,6 +472,11 @@ metafile = true
 [[files]]
 file = "mods/lithosphere.pw.toml"
 hash = "c9d6e6d5fce0e5dd576410037ea87a9fccb4eaf67ca26c4691523912bc36cd61"
+metafile = true
+
+[[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "dffd5e0950b3bd121da4d6be559b13e4917d9ef901ca92e26ad125dc8ec85c26"
 metafile = true
 
 [[files]]
