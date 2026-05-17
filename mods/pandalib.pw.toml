@@ -1,6 +1,6 @@
 name = "PandaLib"
 filename = "pandalib-neoforge-1.21.1-0.6.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/mEEGbEIu/versions/RyUlB24m/pandalib-neoforge-1.21.1-0.6.0.jar"
