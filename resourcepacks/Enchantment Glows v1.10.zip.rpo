@@ -1,0 +1,20 @@
+{
+    outlines: {
+        firstPerson: "regular",
+        thirdPerson: "thin",
+        gui: "off",
+        ground: "thin",
+        fixed: "thin"
+    },
+    appearance: {
+        vibrantTextures: true,
+        glowColor: "purple",
+        shieldStyle: "model",
+        maceStyle: "model"
+    },
+    extraSettings: {
+        weaponSounds: true,
+        glowParticles: true,
+        lowerShield: false
+    }
+}

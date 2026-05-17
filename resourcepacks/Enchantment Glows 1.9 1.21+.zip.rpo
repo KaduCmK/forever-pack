@@ -1,0 +1,5 @@
+{
+    outlinesEffect: "default",
+    weaponSounds: true,
+    lowerShield: false
+}

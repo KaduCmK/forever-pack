@@ -1,0 +1,13 @@
+name = "Forever Pack"
+author = "KaduCmK"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "4618d07010cd7703895bdf3a3a504dd36e51e8b3ce27c5e9df0626f7e16cbf84"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.229"

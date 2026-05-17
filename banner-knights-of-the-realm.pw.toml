@@ -1,0 +1,13 @@
+name = "Banner Knights Of The Realm"
+filename = "Knights Of The Realm.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "faebfb873ae0889c15b7d2ce1d5c31d34afeec40"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7659662
+project-id = 1462531

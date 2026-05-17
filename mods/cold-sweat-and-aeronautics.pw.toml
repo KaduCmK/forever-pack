@@ -1,0 +1,13 @@
+name = "Cold Sweat and Aeronautics"
+filename = "coldsweat_aeronautics_compat-0.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "24e5c561ff2919abdf745647458c553df58d7739"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7969951
+project-id = 1522127

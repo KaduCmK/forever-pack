@@ -1,0 +1,13 @@
+name = "Create Auto Track"
+filename = "create_auto_track-2.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/T5DwyzeX/versions/RLXdPusm/create_auto_track-2.0.2.jar"
+hash-format = "sha512"
+hash = "30afe3fa2ad9ad6587326512c800666c81bf49d065b1a91678cbebd06f8196d1cdbbcb63a377bdb2cb79f638762e46d3d89a92a41e14b02f572edaded68982ec"
+
+[update]
+[update.modrinth]
+mod-id = "T5DwyzeX"
+version = "RLXdPusm"
