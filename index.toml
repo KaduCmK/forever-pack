@@ -21,11 +21,6 @@ file = "Forever_Pack_classificacao_corrigida.pdf"
 hash = "e58169f5a1e2454a01e7201f63e9bcc5d4056b0eb14036545a88dc90c34c0cc3"
 
 [[files]]
-file = "banner-knights-of-the-realm.pw.toml"
-hash = "974b675cf237640e7bb957d4f8f7b43d96b31ddab93c489c72eb8771a01b0635"
-metafile = true
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "82becc6910845ae1a68884e6f7a3dcdc861d79a087ae81b1d7e120e82884372d"
 metafile = true
@@ -172,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeronautics.pw.toml"
-hash = "6cabae8686cf85c826d1280f00e00d67bb7672d353f669bea9f3775de39dd378"
+hash = "6ea6284b569b13f45bfe44f9790389de4a2f7cda92c8b3bb94511b600d64c486"
 metafile = true
 
 [[files]]
@@ -242,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "4b0ca63279620ec9ba4c63820a9d4f9ceea9b717227137ea19e5c420c820f858"
+hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
 
 [[files]]
@@ -597,7 +592,7 @@ metafile = true
 
 [[files]]
 file = "mods/sable.pw.toml"
-hash = "e8ec0a7577c9e3354b78cc613c2c5e6a9fd708a026869aba82d4ce7fc04bc2e7"
+hash = "e4c43e944439f4941ba1c417ab3ac1ec3dbd9c95a8456a2069641d031317e142"
 metafile = true
 
 [[files]]
@@ -711,9 +706,184 @@ hash = "d9c0c9209bac0b693af2a7c1e47ffb28d366bad19c91df31dc6d345fa75250a1"
 metafile = true
 
 [[files]]
-file = "project-conquest.pw.toml"
-hash = "f1b957382466d7641e22a49480c1ede4f70229d1586d07a3ad507d51cec20811"
+file = "resourcepacks/.index/create-pbr.pw.toml"
+hash = "587b894b54943ae6a00ad0565274e3d9deaafb85755b1ccf287a204d7b4b5311"
 metafile = true
+
+[[files]]
+file = "resourcepacks/.index/drigo-3d-lantern`s-x-punchy.pw.toml"
+hash = "fd09973606e66c244e68f4a329bb70c5a5f0a56e5181a7afa4e7980767f8c790"
+metafile = true
+
+[[files]]
+file = "resourcepacks/.index/fa-player-extension.pw.toml"
+hash = "2589ed2567d7537ee061a4a80008298d4849700ec907354a51394f9d15a0b8ae"
+metafile = true
+
+[[files]]
+file = "resourcepacks/.index/fresh-animations-extensions.pw.toml"
+hash = "51c1983bd5891c3a69b1f24fe8549b2d33ace50c8490ee4847596cfb80f10c91"
+metafile = true
+
+[[files]]
+file = "resourcepacks/.index/fresh-animations.pw.toml"
+hash = "b87ca9c7ce22e05eea4b1db024739db5e2ceaa055615bc439aef0b4d8e0b2aba"
+metafile = true
+
+[[files]]
+file = "resourcepacks/.index/glowing-ender-dragon.pw.toml"
+hash = "05a1616f7928c9002ce6356afd0ff77c0b34c79b16d0f6e8de663f7f35653bdc"
+metafile = true
+
+[[files]]
+file = "resourcepacks/.index/glowing-entities-by-yartom.pw.toml"
+hash = "168788b8213e38ab16939e485c851fef5f14f7548b5c0256ff57838da51cebee"
+metafile = true
+
+[[files]]
+file = "resourcepacks/.index/glowing-eyes-heycronus.pw.toml"
+hash = "d22009b417edddfc9d9d0e95e420f0dc0a7244e6a711d913a597d24f748a89cd"
+metafile = true
+
+[[files]]
+file = "resourcepacks/.index/glowing-glints.pw.toml"
+hash = "4b0408a0bf86a838dbc688fa5e806743b878c04ed7689404fd9f63533d98f512"
+metafile = true
+
+[[files]]
+file = "resourcepacks/.index/hyper-punchy.pw.toml"
+hash = "a0e99cb91107b8bc24c01c630d9c8145fa887d610daa074e239484a300208985"
+metafile = true
+
+[[files]]
+file = "resourcepacks/.index/icons.pw.toml"
+hash = "e02e7b29fa9c903fa00c75aa655316591c841832ccffae4df1c9efc71ad93433"
+metafile = true
+
+[[files]]
+file = "resourcepacks/.index/ranolds-glowing-eyes.pw.toml"
+hash = "8209c2acf52169082b52a47db9287f73761244981e157ba3760e11c1f7e5dc69"
+metafile = true
+
+[[files]]
+file = "resourcepacks/.index/redstone-torch-backport.pw.toml"
+hash = "48f293d2842629d470c8424d7a8cb70d94f9ba468780aba28b8aa762930c81bb"
+metafile = true
+
+[[files]]
+file = "resourcepacks/.index/roundista.pw.toml"
+hash = "b3e53fdf90f8e3326ffb41700a5bee5803463f922953f26043d86f251aad427f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/.index/sui-create-aeronautics-pbr.pw.toml"
+hash = "1365155ae3d43e8db0294e5cf5bc88692403dfa1ebd66c3e07cd3791fddc0004"
+metafile = true
+
+[[files]]
+file = "resourcepacks/.index/vanilla-mashup-pbr.pw.toml"
+hash = "d1056952d5e7f0cfde360e9901b6b3b0a41bb655702ef93991c5ae7fb3dbb29f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Create-LabPBR-v12.zip"
+hash = "c52d7880a63ad21655d3cf825cff4ea9fcd318128efe3660c0bb574bc851fb64"
+
+[[files]]
+file = "resourcepacks/Drigo 3D Lantern's x Punchy.zip"
+hash = "6b8759b5cb17187cd77108a49cf4936ed6b71383cece1b102469a50b5353d029"
+
+[[files]]
+file = "resourcepacks/Enchantment Glows 1.9 1.21+.zip.rpo"
+hash = "db736d03c0c1b947f1092d334c957e957dd12f2bab2501b278f253e3807dbda5"
+
+[[files]]
+file = "resourcepacks/Enchantment Glows v1.10.zip.rpo"
+hash = "a6f1dfb71214b36e4b3730ba7902a3d41061cc7920a4e6981334d8ea5c6a5f06"
+
+[[files]]
+file = "resourcepacks/Enchantment Outlines 1.19-1.20.zip"
+hash = "fa6daa2f29da2e286cee2948956f8e5b75bdba51b7295ad94b21a4d347c49d88"
+
+[[files]]
+file = "resourcepacks/Enchantment Outlines.zip.rpo"
+hash = "bb3cf77b8a866049b12e6ce94404718a019fe8ac158844395ec4990106ba216a"
+
+[[files]]
+file = "resourcepacks/FA+All_Extensions-v1.8.zip"
+hash = "11ff5ddfe9f108241b1c8945cd5a74a31a4afae5e9c60c3aaa900522477a060c"
+
+[[files]]
+file = "resourcepacks/FA+Player-v1.0.zip"
+hash = "b1f0c3cbcb77cdf2ad0c59e0f405f7da84f9c07f4ecd90cbb94a40bef70ca70b"
+
+[[files]]
+file = "resourcepacks/Fresh Flowers and Plants 1.4.6.zip.rpo"
+hash = "f4b4696cc31ae5838c755920ae81ebff3e12d1eba16f111bdbe10cfa434a0f74"
+
+[[files]]
+file = "resourcepacks/Fresh Flowers and Plants 1.4.zip.rpo"
+hash = "f4b4696cc31ae5838c755920ae81ebff3e12d1eba16f111bdbe10cfa434a0f74"
+
+[[files]]
+file = "resourcepacks/Fresh Flowers and Plants.zip.rpo"
+hash = "f4b4696cc31ae5838c755920ae81ebff3e12d1eba16f111bdbe10cfa434a0f74"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1.10.4.zip"
+hash = "8e44b29560d2e7d952c0a4f77f0451e6dcb048f827189bffc712b446be8de7f2"
+
+[[files]]
+file = "resourcepacks/Glowing Ender Eyes.zip"
+hash = "b223d7ce62789792208dbf94ad7c67a5d5f53df6aeb6d34309fdea4cc430b410"
+
+[[files]]
+file = "resourcepacks/Glowing Eyes.zip"
+hash = "bcbd37639503153b0ea58635b5276e8ccb7ecf5bd631b93ae57790d145cdc60f"
+
+[[files]]
+file = "resourcepacks/Glowing+Ender+Dragon.zip"
+hash = "351b2266b8bfddbf0d893b5ff960306daeb9c363c55d0a7f367f2127e63a879d"
+
+[[files]]
+file = "resourcepacks/GlowingEntities.zip"
+hash = "328df36f06eb9dba3645699015e0e83581f559185296060e737b9166c21d8191"
+
+[[files]]
+file = "resourcepacks/HyperPunchy-v2.5+.zip"
+hash = "2b611e5a470538d2bfb3d161868f2a1a528ad20cdaf6cb817dc70af0c2fdc83d"
+
+[[files]]
+file = "resourcepacks/HyperPunchy-v2.5+.zip.rpo"
+hash = "1ff6bd8369001632c0617eb00f9127e3b280f53e3cc633efdb181e8f3a030de8"
+
+[[files]]
+file = "resourcepacks/Icons v.1.13.3.zip"
+hash = "cee59fa82d427e8ace2669254ef23650427e0cdff4f0fac6b90be79674baffe3"
+
+[[files]]
+file = "resourcepacks/Icons v.1.13.3.zip.rpo"
+hash = "be313b6be040a77df7fb240708cc403bf925b71add1b1c631450da5032620d18"
+
+[[files]]
+file = "resourcepacks/Roundista 128x R31.zip"
+hash = "00bdc0cfd2bcc9cb32fca7c5f10e59ce99c4ad4fdb3e24773d90de07e014ce0c"
+
+[[files]]
+file = "resourcepacks/SuiCreateAeronauticsPack.zip"
+hash = "2fea3178cb5ba9aa8b16723ba6d95198cb9ca60a4f14e974dc467b7725ad34e6"
+
+[[files]]
+file = "resourcepacks/Vanilla Mashup 1.4.zip"
+hash = "95c05afd5441e3265541057af64734b19024633004fa7163519c517a74ce4bea"
+
+[[files]]
+file = "resourcepacks/refined torches 2.1.zip.rpo"
+hash = "525faffc3d6d955d54194764f809c9c21163d19455ddb99f19ab1475dc1538a6"
+
+[[files]]
+file = "resourcepacks/§c1.21.2 Redstone Torch§r.zip"
+hash = "ffdaa48646c021c40bbb74fdcb467d12b9bb758f0f396b0a7729e13a011f3566"
 
 [[files]]
 file = "scripts/fix_mod_metadata.sh"
@@ -722,3 +892,60 @@ hash = "a5dbe6d224e9fc98f7387ee65e37c82f2c793b4c8538fb8a85cb86f39f237ced"
 [[files]]
 file = "scripts/import_mods.sh"
 hash = "2ffb1d871a594750e012218438f6e51b30695c339e3e69eaf9d18cef27208688"
+
+[[files]]
+file = "shaderpacks/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip"
+hash = "f41db92acc585fe9ffe0cc124d6ecaea27cef9ded91129ebc2a8e60226947b2c"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.8.zip"
+hash = "49b79e1bc0f63d5e143a9b6da855a11c9edacd3f1de758d73151db9ba4abd698"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.8.zip.txt"
+hash = "a3d2c804ae04598a50c5d187b99d0ff01f7439b308037dcc14eedf77929878a6"
+
+[[files]]
+file = "shaderpacks/bliss-shader.pw.toml"
+hash = "07990bccca27ad93de7532ca0915acb32d4f7af3d74b68125e99f2dad8304456"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "bfb848ecdf3093fa0583a3c115ebbfdba9d9401e32a0d74e411f3fe3591184d9"
+metafile = true
+
+[[files]]
+file = "shaderpacks/photon-shader.pw.toml"
+hash = "365ec6f6b442cece770903194fad02e29354d42c62f1291c72c1dfef86ed8e8e"
+metafile = true
+
+[[files]]
+file = "shaderpacks/photon_v1.3b.zip"
+hash = "120897768eaa8cb1f14a3e98f88dff009ae3204ee3b96904a4fe8586edfc1ead"
+
+[[files]]
+file = "shaderpacks/rethinking-voxels.pw.toml"
+hash = "ab78f02fcfcce074baf55ef0d8e5ff74ab1f504ce517c2a6f41fe5d60acaea55"
+metafile = true
+
+[[files]]
+file = "shaderpacks/rethinking-voxels_r0.1-beta9.zip"
+hash = "a8cd9d4338c7d3d1fffecc4525348a31ea3d219ef31382c51d5ddc3b4b0114e1"
+
+[[files]]
+file = "shaderpacks/rethinking-voxels_r0.1-beta9.zip.txt"
+hash = "8b2a3a5e5cea302315ebce5ee8099623b805c80017da1fa088e78833f5045ffc"
+
+[[files]]
+file = "shaderpacks/super-duper-vanilla.pw.toml"
+hash = "1567011c61adeb223e3bc5dced9f4eecada2ef2bb57e123a8a861bc22b4fbc60"
+metafile = true
+
+[[files]]
+file = "shaderpacks/superDuperVanilla.zip"
+hash = "c1cd481ac7ec81b6cb82f162b235509568f6f1ab9e416ccfedaee15e79e1a795"
+
+[[files]]
+file = "shaderpacks/superDuperVanilla.zip.txt"
+hash = "593bdec0e569bcb7ce9b8af78d17f8c963ab8af160e7c975a26146336ffedb7a"
