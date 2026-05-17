@@ -525,6 +525,16 @@ hash = "b68a0b80d7dd64e2c5ac489aa67cf3c343630c9e2deec5d09522d6f7363b2b35"
 metafile = true
 
 [[files]]
+file = "mods/pandalib.pw.toml"
+hash = "0368009a7b43409c526d562d7fd40ea9224316d4a788d0ee16132cd14df339a8"
+metafile = true
+
+[[files]]
+file = "mods/pandas-falling-trees.pw.toml"
+hash = "45248fcd4dfce43606bee373e0b063bf7df216d403e854e46dec0f2807d6d22c"
+metafile = true
+
+[[files]]
 file = "mods/pathfinding-edition-for-minecolonies.pw.toml"
 hash = "3df967a702d0042e9b8bfefad1fbf54a194f6c7b94369aea6c4105cc51567917"
 metafile = true
