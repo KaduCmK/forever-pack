@@ -1,0 +1,13 @@
+name = "Wildex Bestiary"
+filename = "wildex-3.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NiLz1hiU/versions/bTs8kSoW/wildex-3.0.0.jar"
+hash-format = "sha512"
+hash = "522a9b5a49a702bb948bab795a375631db19bf3a4d52fef45460c7bd4b47ce7510909960db757109d87a4db7a21d7294d80e5695f1e25126b8062bbb7ab790bb"
+
+[update]
+[update.modrinth]
+mod-id = "NiLz1hiU"
+version = "bTs8kSoW"
