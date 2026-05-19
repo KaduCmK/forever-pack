@@ -105,6 +105,11 @@ hash = "c9aca350959a8936b054c7164fb55d789ab1e0d38cff2af48b78f70af2bc0c6d"
 metafile = true
 
 [[files]]
+file = "mods/block-runner.pw.toml"
+hash = "05884675211a3b35feddbdef24e8da4d970954a21e5e5586a9bf5a97a1103033"
+metafile = true
+
+[[files]]
 file = "mods/blockui.pw.toml"
 hash = "05abf6fafe4a8adf5aaa24f09b7dedfbe199a8727d925e816fc608d6357f5ba8"
 metafile = true
@@ -215,6 +220,16 @@ hash = "e0eea3fa3d5911be14d85fcc5ded11206f7ea5c71adfb98a34e5fd08de693d0d"
 metafile = true
 
 [[files]]
+file = "mods/create-pattern-schematics.pw.toml"
+hash = "faddfa6807d11014c93bbfd8e543e8843e6d44e53f70d54e0b7e3e95766d2021"
+metafile = true
+
+[[files]]
+file = "mods/create-shuffle-filter.pw.toml"
+hash = "0e2648eb1a0918fa430fecfdc6cfb9508f2fb28714ff51e27dffdbddcec31614"
+metafile = true
+
+[[files]]
 file = "mods/create-sound-of-steam-tuning-wrench.pw.toml"
 hash = "941f681fb3a3f9d76e8fff6a56c423bc6436693b261f285490e091f864b718bd"
 metafile = true
@@ -260,6 +275,21 @@ hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
 
 [[files]]
+file = "mods/cut-through.pw.toml"
+hash = "4c16ee75d3b04443e96d854eec79344293963e9f4beaaf8e7215023e8ef53b88"
+metafile = true
+
+[[files]]
+file = "mods/diagonal-fences.pw.toml"
+hash = "632743d54d410c8b78fb92c94d8f3bb6a7a3faed45171f91e554877f94f82163"
+metafile = true
+
+[[files]]
+file = "mods/diagonal-walls.pw.toml"
+hash = "bbc15c019fd260bbb9058b14a8e03232a55df77608d9aca466d051007d62abd2"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "56cb2e8e396bf26b56ffe0a44c794984435c35e15959ff46539bb8aead85ad77"
 metafile = true
@@ -290,6 +320,16 @@ hash = "9f511e824978b45d8d90244e921dafcbb9bc01d1e4aced66afac71740ffa5ff6"
 metafile = true
 
 [[files]]
+file = "mods/effect-insights.pw.toml"
+hash = "e5b6e0e69276f5dcc5adb13db923679b6f2a4ccc3cf828f3adff24e4308db307"
+metafile = true
+
+[[files]]
+file = "mods/elytra-physics.pw.toml"
+hash = "3be9ba31c40cd693608da0b927d51e3850e051afa52b2e7c4ef95271ae0c0b1c"
+metafile = true
+
+[[files]]
 file = "mods/emi-create-schematics.pw.toml"
 hash = "e0da63d5ba6b0649e29325584dd15046070f7b5b251f41fc7e33ce85be240f8f"
 metafile = true
@@ -297,6 +337,11 @@ metafile = true
 [[files]]
 file = "mods/emi.pw.toml"
 hash = "4603c93edafe22ced6578fd08ca44f8c7e4c7f4e0a59c853e7552c6b8dc99388"
+metafile = true
+
+[[files]]
+file = "mods/emiaccelerator.pw.toml"
+hash = "ff6dcb8b300338467eeff5114469d6fc7219c37834836e3a16b28e430ffca0ef"
 metafile = true
 
 [[files]]
@@ -717,6 +762,11 @@ metafile = true
 [[files]]
 file = "mods/vista_tv.pw.toml"
 hash = "094554b8c5af2dbdcbda924450ffb8e969864ceba5b110bdfa1375ba73d30d27"
+metafile = true
+
+[[files]]
+file = "mods/visual-workbench.pw.toml"
+hash = "baba208274c2694de645628138244a4316942cfbf9cf67b8c8dd656013fcbc54"
 metafile = true
 
 [[files]]

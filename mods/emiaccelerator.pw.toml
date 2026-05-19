@@ -1,0 +1,13 @@
+name = "EmiAccelerator"
+filename = "emi_accelerator-1.1.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/tcEn0k7K/versions/ShEtolZO/emi_accelerator-1.1.1.jar"
+hash-format = "sha512"
+hash = "58c3ddc197d51c81a88c7105db516b273d80d9473d9f0cfb811693cbde4c3e4a1974f7a4f03fbfb2d39bc2c55ac9a9e1cdad707e705578c6e1e6241c788c9cd9"
+
+[update]
+[update.modrinth]
+mod-id = "tcEn0k7K"
+version = "ShEtolZO"
