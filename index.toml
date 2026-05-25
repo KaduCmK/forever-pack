@@ -115,6 +115,16 @@ hash = "05abf6fafe4a8adf5aaa24f09b7dedfbe199a8727d925e816fc608d6357f5ba8"
 metafile = true
 
 [[files]]
+file = "mods/burnt-basic.pw.toml"
+hash = "fee0ea28d7b10cecf129d5655d205f99a7af94685cbaac0bb11c5ec94240531d"
+metafile = true
+
+[[files]]
+file = "mods/burnt-cold-sweat-compat.pw.toml"
+hash = "fb42811cd1acd69b56b01a233a04a42f5a6adb3a6f1e52908e8e80e25502d326"
+metafile = true
+
+[[files]]
 file = "mods/byte.pw.toml"
 hash = "4f38a1932a493c7b100f13356c65bf1cc4d43e4cb3430d428202452d1d5800a0"
 metafile = true
@@ -122,11 +132,6 @@ metafile = true
 [[files]]
 file = "mods/c2me-neoforge.pw.toml"
 hash = "e36cbf13f4a4b614ba88bcf657bd53f865663fd913c854b0bc4414265b9a5828"
-metafile = true
-
-[[files]]
-file = "mods/camera-utils.pw.toml"
-hash = "c3561fce8538524298a32ee9a0e7343154b730f2dead81893212688094103890"
 metafile = true
 
 [[files]]
@@ -172,6 +177,11 @@ metafile = true
 [[files]]
 file = "mods/coroutil.pw.toml"
 hash = "d901f874a1e09747b8d0d072c38c426eceead1f29c8ba36680f8f0082996b152"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics-lift-patch.pw.toml"
+hash = "434d92388783bd89bfad57891f43b7bab9b9c3b16800fd1d8de5f76049a2f304"
 metafile = true
 
 [[files]]
@@ -455,6 +465,11 @@ hash = "ec8432e5a8dcdaeb7eed2086c52916c41e6311258ae3f2b0aec022d3892c23b7"
 metafile = true
 
 [[files]]
+file = "mods/immersive-ui.pw.toml"
+hash = "4a5e7ba2003a7c5df99905c4952c43e011f7b29a7fad9e20457a76a72e92fde2"
+metafile = true
+
+[[files]]
 file = "mods/incendium.pw.toml"
 hash = "5f771525b2ddea308a86a89a94c323325dd72cd6e9dab948fd873746c69b3207"
 metafile = true
@@ -585,6 +600,11 @@ hash = "bcd24eb0db2625488682ca538416a87a301543e5b68bff6633677a6780422db5"
 metafile = true
 
 [[files]]
+file = "mods/octolib.pw.toml"
+hash = "3f552bbdc42f07fd7d5695ced1d27d774af63cff5460be45817939e5f8e4f9de"
+metafile = true
+
+[[files]]
 file = "mods/open-parties-and-claims.pw.toml"
 hash = "b68a0b80d7dd64e2c5ac489aa67cf3c343630c9e2deec5d09522d6f7363b2b35"
 metafile = true
@@ -635,6 +655,11 @@ hash = "6812c3faa178cd48c65c5b8e7aeef50bc0b63d8e3b2117065d6179a43d8d3649"
 metafile = true
 
 [[files]]
+file = "mods/quark.pw.toml"
+hash = "79ac35ba2d4a1ae04f92db5c3b10821970dde8153d7877566eef2ed7e650146b"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "27721caca5a03b743bf25888e1d984142948069dace31453f103f94f7f24d2ce"
 metafile = true
@@ -670,6 +695,11 @@ hash = "29fdbd5c9fc8183982036b090e52da87153451cdf24682e72b2eb99b67a59158"
 metafile = true
 
 [[files]]
+file = "mods/sable-physics-compat.pw.toml"
+hash = "753db312dde944dc4278569734f2d14a7e47a9344946de3cf3b10c601ecd9764"
+metafile = true
+
+[[files]]
 file = "mods/sable.pw.toml"
 hash = "e4c43e944439f4941ba1c417ab3ac1ec3dbd9c95a8456a2069641d031317e142"
 metafile = true
@@ -677,6 +707,11 @@ metafile = true
 [[files]]
 file = "mods/sleep-tight.pw.toml"
 hash = "14386d0c382a2a4e400cf2794a07cd4b7a09fbe6be4ed116e3319db6623312cf"
+metafile = true
+
+[[files]]
+file = "mods/snowy-spirit.pw.toml"
+hash = "65b038d3bcc54549d1d6a81d30b1d68737a2025e0736ac949d8fbb261bdf6110"
 metafile = true
 
 [[files]]
@@ -725,8 +760,18 @@ hash = "13848a9eb3c5fd091b52f78cfae4ace2c3cd0cb32a76d6f61c12435f47d82ed1"
 metafile = true
 
 [[files]]
+file = "mods/the-roads-more-travelled.pw.toml"
+hash = "9dcff637bca8afc5d13b66a1469830a7f0d4f76c2f269cecfc148f87282acf90"
+metafile = true
+
+[[files]]
 file = "mods/thick-air.pw.toml"
 hash = "408665374667fb701ab880ed3ba4c24ea7439b9262220784df9236346b5c6cb7"
+metafile = true
+
+[[files]]
+file = "mods/tide.pw.toml"
+hash = "74674dea8d53bc4e52793a6bdd03092478ee67d2d5c65f542ea13a5dc2847f32"
 metafile = true
 
 [[files]]
@@ -797,6 +842,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "d9c0c9209bac0b693af2a7c1e47ffb28d366bad19c91df31dc6d345fa75250a1"
+metafile = true
+
+[[files]]
+file = "mods/zeta.pw.toml"
+hash = "cb474b6c0dde741836ed4f796f3b6ab0b9d3cdc0453e651122cd002d5d1f8df8"
 metafile = true
 
 [[files]]

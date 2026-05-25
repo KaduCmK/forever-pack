@@ -1,0 +1,13 @@
+name = "Burnt: Cold Sweat Compat"
+filename = "burnt_coldsweat_compat-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/g3qxBQ0D/versions/oAm5ulIO/burnt_coldsweat_compat-1.0.0.jar"
+hash-format = "sha512"
+hash = "3f5b609bc3be7db5e4105e4306d1b90689a8329e1b4355f2ff3918ffac7e463204c4d6fc4dcfdd610c11714b41b4e9d9de90ecfc66d0539c03439b2166596d60"
+
+[update]
+[update.modrinth]
+mod-id = "g3qxBQ0D"
+version = "oAm5ulIO"
