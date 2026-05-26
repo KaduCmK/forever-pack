@@ -105,6 +105,11 @@ hash = "c9aca350959a8936b054c7164fb55d789ab1e0d38cff2af48b78f70af2bc0c6d"
 metafile = true
 
 [[files]]
+file = "mods/biolith.pw.toml"
+hash = "6dc9443f66c77a942c58a0c1e827dc3daa7eb4e6fb0d7039862b5c5b6a00b505"
+metafile = true
+
+[[files]]
 file = "mods/block-runner.pw.toml"
 hash = "05884675211a3b35feddbdef24e8da4d970954a21e5e5586a9bf5a97a1103033"
 metafile = true
@@ -656,7 +661,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "79ac35ba2d4a1ae04f92db5c3b10821970dde8153d7877566eef2ed7e650146b"
+hash = "d891b5301e4fe59ad978edd97c1477c50f928c4a2cfb31d8cdcc7f4965323267"
 metafile = true
 
 [[files]]
