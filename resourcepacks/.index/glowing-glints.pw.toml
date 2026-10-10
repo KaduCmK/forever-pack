@@ -1,21 +1,13 @@
-filename = 'Enchantment Outlines 1.19-1.20.zip'
-name = 'Enchantment Outlines'
-side = 'client'
-x-prismlauncher-loaders = []
-x-prismlauncher-mc-versions = [ '1.19.3', '1.19.4', '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.4.1-1.20'
+name = "Enchantment Outlines"
+filename = "Enchantment Outlines.zip"
+side = "client"
 
 [download]
-hash = 'f3a0c2c1d18835752a5d61399e9b6e98b271eb92d6d4e27f3da9f2e395d30217240ace026f16ada7e208d25e4b7c3125cf9c20b09e4772cf5978233dffb5563a'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/A32gwfe8/versions/xJMCwaMw/Enchantment Outlines 1.19-1.20.zip'
+url = "https://cdn.modrinth.com/data/A32gwfe8/versions/2OjKyOYN/Enchantment%20Outlines.zip"
+hash-format = "sha512"
+hash = "c1ddfaa7ec27d72c1ee611667988ca2dfb26d5ac49b89bfbb837d7476df816b457e24488240a75ed929f9d44bf5c093b02bd2a56cb499316a247d36903fcde47"
 
+[update]
 [update.modrinth]
-mod-id = 'A32gwfe8'
-version = 'xJMCwaMw'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'otVJckYQ'
-type = 'REQUIRED'
+mod-id = "A32gwfe8"
+version = "2OjKyOYN"

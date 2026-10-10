@@ -1,13 +1,13 @@
 name = "Tide 2"
-filename = "tide-neoforge-1.21.1-2.0.3.jar"
+filename = "tide-neoforge-1.21.1-2.1.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/die1AF7i/versions/VDKQwJUs/tide-neoforge-1.21.1-2.0.3.jar"
+url = "https://cdn.modrinth.com/data/die1AF7i/versions/1ki6UyqV/tide-neoforge-1.21.1-2.1.1.jar"
 hash-format = "sha512"
-hash = "285481cb9e96d749ca3e7324bd398ab137d887cc53e4a45869f4f8c049f7a3a37e80a78fe0fb5efb8e65591cb18f060db7bfe49d45c907ca3138d24a9efa1abb"
+hash = "a6ee50e7b1a31e3d12641827ada1816da08c6185ca6447a23c7f90bf4964c022c8dafd8d9df865b4c2368365b21114d326bd5eabde1c76392123d3e9b4b6111f"
 
 [update]
 [update.modrinth]
 mod-id = "die1AF7i"
-version = "VDKQwJUs"
+version = "1ki6UyqV"

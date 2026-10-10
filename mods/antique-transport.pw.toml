@@ -1,13 +1,13 @@
 name = "Antique Transport"
-filename = "antique_transport-1.2.1+1.21.1.jar"
+filename = "antique_transport-1.3.0+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/KW2DN49D/versions/jEvRUhgA/antique_transport-1.2.1%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/KW2DN49D/versions/6D3Mb6FK/antique_transport-1.3.0%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "296ae9fd693fbb5930aa734bfd17a54c01e7b4e77430975f3065cb595c91b5514412e2946b6eeb00f6e3ad3dcb5b9663dfba62163af2549e686291b844e3c922"
+hash = "38fb8c74b8b68d66b96eb2297ed5477a0fb2b1964ca15748a8adff2736cd7bf2aed6abf5aebc04b724f48b8a1127766fd30a695a24f50b8ffbeeaab9b97df3b0"
 
 [update]
 [update.modrinth]
 mod-id = "KW2DN49D"
-version = "jEvRUhgA"
+version = "6D3Mb6FK"

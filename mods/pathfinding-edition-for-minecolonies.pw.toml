@@ -1,13 +1,13 @@
-name = "Pathfinding Edition For MineColonies"
-filename = "colonypathingedition-1.21.1-1.0.5-BETA-8.5.jar"
+name = "Pathfinding Edition For MineColonies -  MineColonies Worker Behavior Optimization"
+filename = "colonypathingedition-1.21.1-1.0.5-fix-4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "04ced4c36923c048c996abe40736ea274b028d05"
+hash = "19972e3f96994ea3b9695b204a3b8c18fbba4ac7"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8069849
+file-id = 9108477
 project-id = 1278014

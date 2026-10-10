@@ -1,18 +1,13 @@
-filename = 'Vanilla Mashup 1.4.zip'
-name = 'Vanilla Mashup (PBR)'
-side = 'client'
-x-prismlauncher-dependencies = []
-x-prismlauncher-loaders = []
-x-prismlauncher-mc-versions = [ '1.21.5', '1.21.6', '1.21.7', '1.21.8' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.4'
+name = "Vanilla Mashup (PBR)"
+filename = "Vanilla Mashup 1.4.1b.zip"
+side = "client"
 
 [download]
-hash = 'd431420ecca5a2eb3b37e010820e44407887f866a4b97f9e4a05f5830fc2fe95d4abe9fef9d2fedc2e8a6b7f03bed3e9be6bd70c3f606e0de92b8d4ea6739978'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/leIFWh7a/versions/Ac4H5yHG/Vanilla Mashup 1.4.zip'
+url = "https://cdn.modrinth.com/data/leIFWh7a/versions/BB2pLooJ/Vanilla%20Mashup%201.4.1b.zip"
+hash-format = "sha512"
+hash = "d21f1437be599ee5285ce4dc50a4b7b6c3c7d786d5912f9eb696fdeb4da38132b35bdb24b65dcdbd35ff6630d32eedb145fefb35869bd64287874a744d28a849"
 
+[update]
 [update.modrinth]
-mod-id = 'leIFWh7a'
-version = 'Ac4H5yHG'
+mod-id = "leIFWh7a"
+version = "BB2pLooJ"
