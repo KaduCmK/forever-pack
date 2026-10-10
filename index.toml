@@ -471,7 +471,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-enchanting.pw.toml"
-hash = "72de092d6670e19df4b34f4451e70f5868d7a488cbb26956907bf813de9ddeb6"
+hash = "e0f223acac5e158d1685c26b9be9fad98d4711e947b6cac7e9d9652bbd141dd7"
 metafile = true
 
 [[files]]
